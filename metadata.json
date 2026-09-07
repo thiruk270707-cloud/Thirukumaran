@@ -1,0 +1,6 @@
+{
+  "name": "MomCare",
+  "description": "Next-gen emergency medical support platform connected to Google Maps and Contacts API to display saved locations and sync contact address data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
